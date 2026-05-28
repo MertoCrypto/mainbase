@@ -1,1 +1,1 @@
-Baslangıc 1 , 2 , 3 , 4 , 5
+Baslangıc 1 , 2 , 3 , 4 , 5 , 6
